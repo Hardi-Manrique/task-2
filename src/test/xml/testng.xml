@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Tas 2 - API Testing" verbose="1" >
+    <test name="task2">
+        <classes>
+            <class name="task2.task2"/>
+        </classes>
+    </test>
+</suite>
